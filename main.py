@@ -34,6 +34,8 @@ t.colormode(255)
 rafael.width(20)
 rafael.speed("fast")
 rafael.penup()
+rafael.hideturtle()
+
 position_y = -200
 rafael.goto(-200, position_y)
 
