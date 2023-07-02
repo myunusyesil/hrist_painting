@@ -13,6 +13,10 @@
 
 # print(rgb_colors)
 
+
+# Day 18 Hirst Dot Paint project with the help of colorgram and turtle library.
+
+
 import turtle as t
 import random
 
